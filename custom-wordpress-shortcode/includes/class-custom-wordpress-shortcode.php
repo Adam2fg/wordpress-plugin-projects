@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       https://onlinewebtutorblog.com
+ * @link       https://github.com/adam2fg
  * @since      1.0.0
  *
  * @package    Custom_Wordpress_Shortcode
@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Custom_Wordpress_Shortcode
  * @subpackage Custom_Wordpress_Shortcode/includes
- * @author     Sanjay Kumar <sanjay.example@gmail.com>
+ * @author     Adam Abah <Adam Abah.example@gmail.com>
  */
 class Custom_Wordpress_Shortcode {
 

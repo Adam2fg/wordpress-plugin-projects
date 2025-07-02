@@ -3,9 +3,9 @@
 /**
  * Plugin Name: Hello World
  * Description: This is our first plugin which creates some information widget to admin dashboard as well as at admin notice
- * Author: Sanjay Kumar
+ * Author: Adam Abah
  * Version: 1.0
- * Author URI: https://onlinewebtutorblog.com
+ * Author URI: https://github.com/adam2fg
  * Plugin URI: https://example.com/hello-world
  */
 

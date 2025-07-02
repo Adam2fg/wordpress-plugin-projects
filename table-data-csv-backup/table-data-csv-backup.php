@@ -4,9 +4,9 @@
  * Plugin Name: CSV Data Backup
  * Description: It will export Table Data into .csv file
  * Version: 1.0
- * Author: Sanjay Kumar
+ * Author: Adam Abah
  * Plugin URI: https://example.com
- * Author URI: https://onlinewebtutorblog.com
+ * Author URI: https://github.com/adam2fg
  */
 
 add_action("admin_menu", "tdcb_create_admin_menu");

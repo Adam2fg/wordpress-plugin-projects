@@ -3,8 +3,8 @@
  * Plugin Name: My Custom Widget
  * Description: This widget will provide options to display a static message as well as recent posts over website
  * Version: 1.0
- * Author: Sanjay Kumar
- * Author URI: https://onlinewebtutorblog.com
+ * Author: Adam Abah
+ * Author URI: https://github.com/adam2fg
  * Plugin URI: https://example.com/my-custom-widget
  */
 

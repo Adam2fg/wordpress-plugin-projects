@@ -4,7 +4,7 @@
  * Plugin Name: Custom WooCommerce Product Creator
  * Description: This plugin creates woocommerce
  * Version: 1.0
- * Author: Sanjay Kumar
+ * Author: Adam Abah
  * Plugin URL: https://example.com/custom-woocom-product
  */
 

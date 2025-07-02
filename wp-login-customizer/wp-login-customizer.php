@@ -3,9 +3,9 @@
 /**
  * Plugin Name: WP Login Page Customizer
  * Description: This Plugin will customizer Logo, Text Color, and Background Color
- * Author: Sanjay Kumar
+ * Author: Adam Abah
  * Plugin URI: https://example.com/wp-login-page-customizer
- * Author URI: https://onlinewebtutorblog.com
+ * Author URI: https://github.com/adam2fg
  * Version: 1.0
  */
 

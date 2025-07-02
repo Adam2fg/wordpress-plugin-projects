@@ -4,9 +4,9 @@
  * Plugin Name: ShortCode Plugin
  * Description: This is second plugin of this course which gives idea about shorcode basics
  * Version: 1.0
- * Author: Sanjay Kumar
+ * Author: Adam Abah
  * Plugin URI: https://example.com/shortcode-plugin
- * Author URI: https://onlinewebtutorblog.com
+ * Author URI: https://github.com/adam2fg
  */
 
 // Basic Shortcode
@@ -20,7 +20,7 @@
 
  // Shortcode with Parameters
 
- //[student name="Sanjay" email="Sanjay"]
+ //[student name="Adam Abah" email="Adam Abah"]
 
  add_shortcode("student", "sp_handle_student_data");
 

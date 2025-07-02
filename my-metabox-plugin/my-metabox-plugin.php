@@ -4,7 +4,7 @@
  * Plugin Name: My Custom Metabox
  * Description: This will be the metabox for WordPress Pages
  * Version: 1.0
- * Author: Sanjay Kumar
+ * Author: Adam Abah
  */
 
 if(!defined("ABSPATH")){

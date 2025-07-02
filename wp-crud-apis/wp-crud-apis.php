@@ -4,7 +4,7 @@
  * Plugin Name: WP API for CRUD
  * Description: This plugin enables APIs endpoints to perform CRUD operation with Database
  * Version: 1.0
- * Author: Sanjay
+ * Author: Adam Abah
  * Plugin URI: https://example.com/wp-api-crud
  */
 

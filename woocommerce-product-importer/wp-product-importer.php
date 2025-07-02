@@ -4,7 +4,7 @@
  * Plugin Name: WooCommerce Product Importer
  * Description: This plugin will help to import products from CSV File
  * Version: 1.0
- * Author: Sanjay Kumar
+ * Author: Adam Abah
  */
 
 if(!defined("WPINC")){

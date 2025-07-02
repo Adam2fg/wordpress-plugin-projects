@@ -5,7 +5,7 @@
  *
  * This file is used to markup the public-facing aspects of the plugin.
  *
- * @link       https://onlinewebtutorblog.com
+ * @link       https://github.com/adam2fg
  * @since      1.0.0
  *
  * @package    Custom_Wordpress_Shortcode

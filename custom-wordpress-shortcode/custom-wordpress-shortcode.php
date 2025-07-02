@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://onlinewebtutorblog.com
+ * @link              https://github.com/adam2fg
  * @since             1.0.0
  * @package           Custom_Wordpress_Shortcode
  *
@@ -17,8 +17,8 @@
  * Plugin URI:        https://example.com/custom-wordpress-shortcode
  * Description:       This plugin is basically to create dynamic db table, add plugin menu and create shortcodes
  * Version:           1.0.0
- * Author:            Sanjay Kumar
- * Author URI:        https://onlinewebtutorblog.com/
+ * Author:            Adam Abah
+ * Author URI:        https://github.com/adam2fg/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       custom-wordpress-shortcode
