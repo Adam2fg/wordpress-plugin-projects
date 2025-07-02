@@ -1,0 +1,8 @@
+{
+  "name": "yourname/yoodule-stripe",
+  "description": "WordPress plugin to manage Stripe API credentials and display Stripe prices in a DataTable.",
+  "type": "project",
+  "require": {
+    "stripe/stripe-php": "^12.0"
+  }
+} 
